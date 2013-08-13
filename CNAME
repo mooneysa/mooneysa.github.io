@@ -1,1 +1,4 @@
 www.friendshipweekend.org
+;www.friendshipweekend.org.               IN      A
+# www.friendshipweekend.org.        3592    IN      CNAME   mooneysa.github.io.
+# mooneysa.github.io.      43192   IN      A       204.232.175.78
