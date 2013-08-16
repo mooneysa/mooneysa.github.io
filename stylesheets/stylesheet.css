@@ -26,8 +26,6 @@ blockquote, q {
 }
 table {
   border-collapse: collapse;
-  -x-border-x-spacing: 0;
-  -x-border-y-spacing: 0;
 }
 body {
   background: #48593f none repeat scroll 0% 50%;
@@ -44,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -1px;
 }
 h1 {
-  font-size: 36px;
+  font-size: 44px;
   font-weight: 700;
 }
 h2 {
@@ -164,7 +162,7 @@ table {
 }
 th {
   padding: 10px;
-  background: #373737 none repeat scroll 0%;
+  background: #373737 none repeat scroll 0% 50%;
   font-family: 'Lucida Grande','Helvetica Neue',Helvetica,Arial,sans-serif;
   color: #ffffff;
 }
@@ -174,7 +172,7 @@ td {
 }
 form {
   padding: 20px;
-  background: #f2f2f2 none repeat scroll 0%;
+  background: #f2f2f2 none repeat scroll 0% 50%;
 }
 img {
   width: 100%;
@@ -201,20 +199,20 @@ img {
   font-weight: 700;
 }
 #header_wrap {
-  background: #212121 none repeat scroll 0%;
+  background: #212121 none repeat scroll 0% 50%;
 }
 #header_wrap .inner {
   padding: 50px 10px 30px;
 }
 #project_title {
   margin: 0;
-  color: #ffffff;
+  color: #15cf50;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111111 0px 0px 10px;
 }
 #project_tagline {
-  background: transparent none repeat scroll 0%;
+  background: transparent none repeat scroll 0% 50%;
   color: #ffffff;
   font-size: 24px;
   font-weight: 300;
@@ -257,7 +255,7 @@ img {
 #main_content_wrap {
   border-top: 1px solid #111111;
   border-bottom: 1px solid #111111;
-  background: #f2f2f2 none repeat scroll 0%;
+  background: #f2f2f2 none repeat scroll 0% 50%;
 }
 #main_content {
   padding-top: 40px;
